@@ -12,10 +12,10 @@ This project combines unsupervised learning techniques for detecting fraudulent 
 
 + **Invoice Payment Prediction**
 + **Technique:** Employs Linear Regression to predict the payment status or timing of invoices based on factors like:
-+ Invoice amount
-+ Customer payment history
-+ Due date vs. issue date
-+ Customer industry and credit score
+ Invoice amount, 
+ Customer payment history, 
+ Due date vs. issue date, 
+ Customer industry and credit score
 + **Performance:** Achieves a Mean Squared Error (MSE) of 0.064, ensuring accurate payment forecasting.
 + **Business Use Case:** Helps in cash flow forecasting, credit risk management, and customer segmentation.
 
